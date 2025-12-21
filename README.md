@@ -10,6 +10,12 @@ https://demo-neonfolio.vercel.app/
 
 https://faheemarif.hashnode.dev/build-and-deploy-your-personal-portfolio-website
 
+## Screenshots
+
+Original:
+![Original](/docs/screenshots/themes-collage.png)
+
+
 ## Quick Start
 
 1) Install Node.js 18+
