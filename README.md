@@ -4,7 +4,7 @@ Modern resume and portfolio template built with Next.js and Tailwind CSS.
 
 ## Demo
 
-https://nextjs-personal-resume-portfolio.vercel.app
+https://demo-neonfolio.vercel.app/
 
 ## Detailed Guide on Complete Deployment
 
